@@ -1,2 +1,4 @@
 # music_mido
-可以用python代码编写简谱播放音乐
+可以用python代码编写简谱播放音乐。
+因为第一版musicPlayV1写的太烂了，所以这里就不放出来了。
+直接用V2和V3。
