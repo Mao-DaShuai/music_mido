@@ -1,49 +1,49 @@
 drum_dict = {
-            'acoustic_bass': 35,  # 大鼓
-            'bass1': 36,  # 低音鼓 **
-            'side_stick': 37,  # 边击
-            'acoustic_snare': 38,  # 小鼓(松) **
-            'hand_clap': 39,  # 拍手
-            'electric_snare': 40,  # 小鼓(紧)
-            'low_floor_tom': 41,  # 通鼓(最低) **
-            'closed_hi-hat': 42,  # 立镲(闭) **
-            'high_floor_tom': 43,  # 通鼓(低) **
-            'pedal_hi-hat': 44,  # 踩镲
-            'low_tom': 45,  # 通鼓(中低) **
-            'open_hi-hat': 46,  # 立镲(开) **
-            'low-mid_tom': 47,  # 通鼓(中) **
-            'hi-mid_tom': 48,  # 通鼓(中高) **
-            'crash_cymbal1': 49,  # 低砸音镲 **
-            'high_tom': 50,  # 通鼓(高) **
-            'ride_cymbal1': 51,  # 厚吊镲(低) **
-            'chinese_cymbal': 52,  # 锣
-            'ride_bell': 53,  # 厚吊镲(中)
-            'tambourine': 54,  # 铃鼓
-            'splash_cymbal': 55,  # 小吊镲
-            'cowbell': 56,  # 牛铃
-            'crash_cymbal2': 57,  # 薄吊镲(高) 高砸音镲
-            'vibraslap': 58,  # 振音梆盒
-            'ride_cymbal2': 59,  # 厚吊镲(高)
-            'hi_bongo': 60,  # 邦戈鼓(高)
-            'low_bongo': 61,  # 邦戈鼓(低)
-            'mute_hi_bongo': 62,  # 康加鼓(高闭)
-            'open_hi_bongo': 63,  # 康加鼓(高开)
-            'low_conga': 90,  # 康加鼓(低)
-            'high_timbale': 65,  # 边鼓(高)
-            'low_timbale': 66,  # 边鼓(低)
-            'high_agogo': 67,  # 拉丁打铃(高)
-            'low_agogo': 68,  # 拉丁打铃(低)
-            'cabasa': 69,  # 喀吧萨
-            'maracas': 70,  # 沙锤
-            'short_whistle': 71,  # 哨子(短)
-            'long_whistle': 72,  # 哨子(长)
-            'short_guiro': 73,  # 刮板(短)
-            'long_guiro': 74,  # 刮板(长)
-            'claves': 75,  # 响棒
-            'hi_wood_block': 76,  # 梆盒(高)
-            'low_wood_block': 77,  # 梆盒(低)
-            'mute_cuica': 78,  # 拉鼓(闭)
-            'open_cuica': 79,  # 拉鼓(开)
-            'mute_triangle': 80,  # 三角铁(闭)
-            'open_triangle': 81  # 三角铁(开)
+            'acoustic_bass': 35,      # 大鼓
+            'bass1': 36,              # 低音鼓
+            'side_stick': 37,         # 边击
+            'acoustic_snare': 38,     # 小鼓(松)
+            'hand_clap': 39,          # 拍手
+            'electric_snare': 40,     # 小鼓(紧)
+            'low_floor_tom': 41,      # 通鼓(最低)
+            'closed_hi-hat': 42,      # 立镲(闭)
+            'high_floor_tom': 43,     # 通鼓(低)
+            'pedal_hi-hat': 44,       # 踩镲
+            'low_tom': 45,            # 通鼓(中低)
+            'open_hi-hat': 46,        # 立镲(开)
+            'low-mid_tom': 47,        # 通鼓(中)
+            'hi-mid_tom': 48,         # 通鼓(中高)
+            'crash_cymbal1': 49,      # 低砸音镲
+            'high_tom': 50,           # 通鼓(高)
+            'ride_cymbal1': 51,       # 厚吊镲(低)
+            'chinese_cymbal': 52,     # 锣
+            'ride_bell': 53,          # 厚吊镲(中)
+            'tambourine': 54,         # 铃鼓
+            'splash_cymbal': 55,      # 小吊镲
+            'cowbell': 56,            # 牛铃
+            'crash_cymbal2': 57,      # 薄吊镲(高) 高砸音镲
+            'vibraslap': 58,          # 振音梆盒
+            'ride_cymbal2': 59,       # 厚吊镲(高)
+            'hi_bongo': 60,           # 邦戈鼓(高)
+            'low_bongo': 61,          # 邦戈鼓(低)
+            'mute_hi_bongo': 62,      # 康加鼓(高闭)
+            'open_hi_bongo': 63,      # 康加鼓(高开)
+            'low_conga': 90,          # 康加鼓(低)
+            'high_timbale': 65,       # 边鼓(高)
+            'low_timbale': 66,        # 边鼓(低)
+            'high_agogo': 67,         # 拉丁打铃(高)
+            'low_agogo': 68,          # 拉丁打铃(低)
+            'cabasa': 69,             # 喀吧萨
+            'maracas': 70,            # 沙锤
+            'short_whistle': 71,      # 哨子(短)
+            'long_whistle': 72,       # 哨子(长)
+            'short_guiro': 73,        # 刮板(短)
+            'long_guiro': 74,         # 刮板(长)
+            'claves': 75,             # 响棒
+            'hi_wood_block': 76,      # 梆盒(高)
+            'low_wood_block': 77,     # 梆盒(低)
+            'mute_cuica': 78,         # 拉鼓(闭)
+            'open_cuica': 79,         # 拉鼓(开)
+            'mute_triangle': 80,      # 三角铁(闭)
+            'open_triangle': 81       # 三角铁(开)
 }
